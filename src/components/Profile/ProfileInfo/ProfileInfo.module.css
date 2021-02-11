@@ -1,0 +1,12 @@
+img{
+    width: 500px;
+}
+div.descriptionBlock img{
+    width: 200px;
+}
+div.lookingForAJob img{
+    width: 50px;
+}
+.descriptionBlock{
+    padding: 10px;
+}
